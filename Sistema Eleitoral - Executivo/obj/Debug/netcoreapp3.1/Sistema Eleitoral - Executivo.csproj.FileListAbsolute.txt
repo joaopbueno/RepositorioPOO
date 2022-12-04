@@ -1,0 +1,87 @@
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.exe
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.deps.json
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.runtimeconfig.json
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.runtimeconfig.dev.json
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.dll
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.pdb
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.dll
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.pdb
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Form1.resources
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.AcessarEleicao.resources
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.CadastrarEleicao.resources
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.CopyComplete
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Votar.resources
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarExecutivo.resources
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarLegislativo.resources
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.GerenciarExecutivo.resources
+C:\Users\T-Gamer\Documents\Linguagens\C#\Faculdade\4\POO\Sistema Eleitoral\Executivo\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.GerenciarLegislativo.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.exe
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.deps.json
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.runtimeconfig.json
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.runtimeconfig.dev.json
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.pdb
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.AssemblyReference.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.AcessarEleicao.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.CadastrarEleicao.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Form1.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.GerenciarExecutivo.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.GerenciarLegislativo.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Votar.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarExecutivo.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarLegislativo.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.GenerateResource.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.AssemblyInfoInputs.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.AssemblyInfo.cs
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.CoreCompileInputs.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.CopyComplete
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.dll
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.pdb
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.genruntimeconfig.cache
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarDpEstadual.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarDpFederal.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarVereador.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Form2.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarGovernador.resources
+C:\Users\jvanj\OneDrive\Área de Trabalho\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarPrefeito.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.exe
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.deps.json
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.runtimeconfig.json
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.dll
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.pdb
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.AcessarEleicao.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.CadastrarEleicao.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Form1.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Form2.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.GerenciarExecutivo.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.GerenciarLegislativo.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarDpEstadual.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarDpFederal.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarExecutivo.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarGovernador.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarLegislativo.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarPrefeito.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarVereador.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.csproj.CopyComplete
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.dll
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.pdb
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Relatorio.resources
