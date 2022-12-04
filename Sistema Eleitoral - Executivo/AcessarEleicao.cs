@@ -29,7 +29,7 @@ namespace Sistema_Eleitoral___Executivo
             {
                 if (Serializer.Serializer.VerificarEleicaoVazia(cbmTipoEleicao.Text, txtAnoEleicao.Text))
                 {
-                    MessageBox.Show("A eleicao nao possui nenhum candidato cadastrado.\nCadastre candidatos para prosseguir para a votacao.", "Erro");
+                    MessageBox.Show("A eleicao nao possui candidato cadastrado.\nCadastre candidatos para prosseguir para a votacao.", "Erro");
                     return;
                 }
                 else

@@ -34,7 +34,7 @@ namespace Sistema_Eleitoral___Executivo.Eleicao
         {
             foreach (Candidato candidato in _Candidatos)
             {
-                if (candidato._NumeroCandidato.Equals(num))
+                if (candidato._NumeroCandidato.ToString() == num)
                     return true;
             }
             return false;

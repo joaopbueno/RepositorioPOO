@@ -26,7 +26,7 @@ namespace Sistema_Eleitoral___Executivo
             if (!eleicao.validarExistenciaNumCandidato(txtNumero.Text))
             {
                 // ajustar idade ultimo parametro, criar campo e enviar
-                Pessoa.Candidato candidato = new Pessoa.Candidato(txtNomeCompleto.Text, txtPartido.Text, int.Parse(txtNumero.Text), cmbTipoCandidato.Text, 0);
+                Pessoa.Candidato candidato = new Pessoa.Candidato(txtNomeCompleto.Text, txtPartido.Text, int.Parse(txtNumero.Text), cmbTipoCandidato.Text, int.Parse(txtIdade.Text));
                 eleicao.CadastrarCandidato(candidato);
                 Serializer.Serializer.Serializar(eleicao);
                 MessageBox.Show("Candidato cadastrado com sucesso.", "Sucesso");
@@ -60,10 +60,10 @@ namespace Sistema_Eleitoral___Executivo
 
         private void limpaCampos()
         {
-            
             cmbTipoCandidato.ResetText();
             cmbTipoCandidato.Refresh();
             txtNomeCompleto.Clear();
+            txtIdade.Clear();
             txtPartido.Clear();
             txtNumero.Clear();
         }

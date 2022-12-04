@@ -39,6 +39,8 @@
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.btnVoltar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtIdade = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // lblTipoCandidato
@@ -83,7 +85,7 @@
             // lblPartido
             // 
             this.lblPartido.AutoSize = true;
-            this.lblPartido.Location = new System.Drawing.Point(26, 139);
+            this.lblPartido.Location = new System.Drawing.Point(26, 176);
             this.lblPartido.Name = "lblPartido";
             this.lblPartido.Size = new System.Drawing.Size(45, 15);
             this.lblPartido.TabIndex = 4;
@@ -92,7 +94,7 @@
             // lblNumero
             // 
             this.lblNumero.AutoSize = true;
-            this.lblNumero.Location = new System.Drawing.Point(26, 168);
+            this.lblNumero.Location = new System.Drawing.Point(26, 205);
             this.lblNumero.Name = "lblNumero";
             this.lblNumero.Size = new System.Drawing.Size(51, 15);
             this.lblNumero.TabIndex = 5;
@@ -100,21 +102,21 @@
             // 
             // txtPartido
             // 
-            this.txtPartido.Location = new System.Drawing.Point(136, 136);
+            this.txtPartido.Location = new System.Drawing.Point(136, 173);
             this.txtPartido.Name = "txtPartido";
             this.txtPartido.Size = new System.Drawing.Size(121, 23);
             this.txtPartido.TabIndex = 6;
             // 
             // txtNumero
             // 
-            this.txtNumero.Location = new System.Drawing.Point(136, 165);
+            this.txtNumero.Location = new System.Drawing.Point(136, 202);
             this.txtNumero.Name = "txtNumero";
             this.txtNumero.Size = new System.Drawing.Size(121, 23);
             this.txtNumero.TabIndex = 7;
             // 
             // btnCadastrar
             // 
-            this.btnCadastrar.Location = new System.Drawing.Point(151, 199);
+            this.btnCadastrar.Location = new System.Drawing.Point(151, 249);
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.Size = new System.Drawing.Size(106, 34);
             this.btnCadastrar.TabIndex = 8;
@@ -124,7 +126,7 @@
             // 
             // btnVoltar
             // 
-            this.btnVoltar.Location = new System.Drawing.Point(26, 213);
+            this.btnVoltar.Location = new System.Drawing.Point(26, 263);
             this.btnVoltar.Name = "btnVoltar";
             this.btnVoltar.Size = new System.Drawing.Size(67, 20);
             this.btnVoltar.TabIndex = 9;
@@ -142,11 +144,29 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "Cadastro de Candidato";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(26, 142);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(36, 15);
+            this.label2.TabIndex = 11;
+            this.label2.Text = "Idade";
+            // 
+            // txtIdade
+            // 
+            this.txtIdade.Location = new System.Drawing.Point(136, 139);
+            this.txtIdade.Name = "txtIdade";
+            this.txtIdade.Size = new System.Drawing.Size(121, 23);
+            this.txtIdade.TabIndex = 12;
+            // 
             // GerenciarExecutivo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(281, 261);
+            this.ClientSize = new System.Drawing.Size(281, 295);
+            this.Controls.Add(this.txtIdade);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnVoltar);
             this.Controls.Add(this.btnCadastrar);
@@ -178,5 +198,7 @@
         private System.Windows.Forms.Button btnCadastrar;
         private System.Windows.Forms.Button btnVoltar;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtIdade;
     }
 }

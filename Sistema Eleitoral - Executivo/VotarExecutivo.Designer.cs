@@ -28,23 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblDpFederal = new System.Windows.Forms.Label();
             this.txtVoto = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.btnConfirma = new System.Windows.Forms.Button();
-            this.btnCorrige = new System.Windows.Forms.Button();
-            this.btnNulo = new System.Windows.Forms.Button();
+            this.lblDpFederal = new System.Windows.Forms.Label();
             this.btnBranco = new System.Windows.Forms.Button();
+            this.btnNulo = new System.Windows.Forms.Button();
+            this.btnCorrige = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // lblDpFederal
-            // 
-            this.lblDpFederal.AutoSize = true;
-            this.lblDpFederal.Location = new System.Drawing.Point(200, 92);
-            this.lblDpFederal.Name = "lblDpFederal";
-            this.lblDpFederal.Size = new System.Drawing.Size(12, 15);
-            this.lblDpFederal.TabIndex = 21;
-            this.lblDpFederal.Text = "-";
             // 
             // txtVoto
             // 
@@ -74,16 +65,24 @@
             this.btnConfirma.UseVisualStyleBackColor = false;
             this.btnConfirma.Click += new System.EventHandler(this.btnConfirma_Click);
             // 
-            // btnCorrige
+            // lblDpFederal
             // 
-            this.btnCorrige.BackColor = System.Drawing.Color.Red;
-            this.btnCorrige.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.btnCorrige.Location = new System.Drawing.Point(270, 124);
-            this.btnCorrige.Name = "btnCorrige";
-            this.btnCorrige.Size = new System.Drawing.Size(96, 42);
-            this.btnCorrige.TabIndex = 17;
-            this.btnCorrige.Text = "Corrige";
-            this.btnCorrige.UseVisualStyleBackColor = false;
+            this.lblDpFederal.AutoSize = true;
+            this.lblDpFederal.Location = new System.Drawing.Point(200, 92);
+            this.lblDpFederal.Name = "lblDpFederal";
+            this.lblDpFederal.Size = new System.Drawing.Size(12, 15);
+            this.lblDpFederal.TabIndex = 21;
+            this.lblDpFederal.Text = "-";
+            // 
+            // btnBranco
+            // 
+            this.btnBranco.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnBranco.Location = new System.Drawing.Point(57, 124);
+            this.btnBranco.Name = "btnBranco";
+            this.btnBranco.Size = new System.Drawing.Size(86, 42);
+            this.btnBranco.TabIndex = 15;
+            this.btnBranco.Text = "Branco";
+            this.btnBranco.UseVisualStyleBackColor = false;
             // 
             // btnNulo
             // 
@@ -96,15 +95,16 @@
             this.btnNulo.Text = "Nulo";
             this.btnNulo.UseVisualStyleBackColor = false;
             // 
-            // btnBranco
+            // btnCorrige
             // 
-            this.btnBranco.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.btnBranco.Location = new System.Drawing.Point(57, 124);
-            this.btnBranco.Name = "btnBranco";
-            this.btnBranco.Size = new System.Drawing.Size(86, 42);
-            this.btnBranco.TabIndex = 15;
-            this.btnBranco.Text = "Branco";
-            this.btnBranco.UseVisualStyleBackColor = false;
+            this.btnCorrige.BackColor = System.Drawing.Color.Red;
+            this.btnCorrige.ForeColor = System.Drawing.SystemColors.HighlightText;
+            this.btnCorrige.Location = new System.Drawing.Point(270, 124);
+            this.btnCorrige.Name = "btnCorrige";
+            this.btnCorrige.Size = new System.Drawing.Size(96, 42);
+            this.btnCorrige.TabIndex = 17;
+            this.btnCorrige.Text = "Corrige";
+            this.btnCorrige.UseVisualStyleBackColor = false;
             // 
             // VotarExecutivo
             // 
@@ -126,13 +126,12 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Label lblDpFederal;
         private System.Windows.Forms.TextBox txtVoto;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btnConfirma;
-        private System.Windows.Forms.Button btnCorrige;
-        private System.Windows.Forms.Button btnNulo;
+        private System.Windows.Forms.Label lblDpFederal;
         private System.Windows.Forms.Button btnBranco;
+        private System.Windows.Forms.Button btnNulo;
+        private System.Windows.Forms.Button btnCorrige;
     }
 }

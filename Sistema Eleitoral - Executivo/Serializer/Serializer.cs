@@ -37,7 +37,7 @@ namespace Sistema_Eleitoral___Executivo.Serializer
 
         public static bool VerificarEleicaoVazia(string tipo, string ano)
         {
-            return ((Eleicao.Eleicao)Deserializer.RecuperarEleicao(tipo, ano))._Candidatos.Count != 0;
+            return ((Eleicao.Eleicao)Deserializer.RecuperarEleicao(tipo, ano))._Candidatos.Count == 0;
         }
 
         //public static bool VerificarExistenciaCandidato(string tipo, string ano, string num)

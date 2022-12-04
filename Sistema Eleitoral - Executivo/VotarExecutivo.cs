@@ -24,14 +24,14 @@ namespace Sistema_Eleitoral___Executivo
         {
             Eleicao.Eleicao eleicao = (Eleicao.Eleicao)Serializer.Deserializer.RecuperarEleicao("Executivo", "2022");
 
-            if (!eleicao.validarExistenciaNumCandidato(txtVoto.Text))
+            if (eleicao.validarExistenciaNumCandidato(txtVoto.Text))
             {
                 foreach (Candidato candidato in eleicao._Candidatos)
                 {
-                    if (candidato._NumeroCandidato.Equals(txtVoto.Text))
+                    if (candidato._NumeroCandidato.ToString() == txtVoto.Text)
                     {
-                        int num = (int) candidato._NumeroCandidato;
-                        candidato._NumeroCandidato = num + 1;
+                        int num = (int) candidato._Votos;
+                        candidato._Votos = num + 1;
                     }
                 }
                 if (Serializer.Serializer.Serializar(eleicao))
