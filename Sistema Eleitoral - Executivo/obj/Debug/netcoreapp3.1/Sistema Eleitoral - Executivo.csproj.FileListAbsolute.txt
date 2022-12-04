@@ -85,3 +85,5 @@ C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - E
 C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.pdb
 C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema Eleitoral - Executivo.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.Relatorio.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarExecGovernador.resources
+C:\Users\Usuario\Desktop\POO\Sistema Eleitoral - Executivo\Sistema Eleitoral - Executivo\obj\Debug\netcoreapp3.1\Sistema_Eleitoral___Executivo.VotarExecPrefeito.resources

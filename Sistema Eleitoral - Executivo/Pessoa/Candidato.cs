@@ -12,7 +12,8 @@ namespace Sistema_Eleitoral___Executivo.Pessoa
         public int _NumeroCandidato;
         public string _Tipo;
         public int _Idade;
-
+        
+        public Candidato() { }
         public Candidato(string nome, string partido, int numero, string tipo, int idade)
         {
             _Nome = nome;

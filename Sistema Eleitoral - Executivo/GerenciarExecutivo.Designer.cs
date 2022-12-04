@@ -58,7 +58,7 @@
             this.cmbTipoCandidato.FormattingEnabled = true;
             this.cmbTipoCandidato.Items.AddRange(new object[] {
             "Presidente",
-            "Governador",
+            "Governador Estadual",
             "Prefeito"});
             this.cmbTipoCandidato.Location = new System.Drawing.Point(136, 74);
             this.cmbTipoCandidato.Name = "cmbTipoCandidato";

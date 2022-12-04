@@ -10,27 +10,42 @@ using System.Windows.Forms;
 
 namespace Sistema_Eleitoral___Executivo
 {
-    public partial class VotarExecutivo : Form
+    public partial class VotarExecPrefeito : Form
     {
-        private string tipo;
-        private string ano;
-        private Thread t;
-        public VotarExecutivo()
+        public Thread t;
+        public VotarExecPrefeito()
         {
             InitializeComponent();
         }
 
+        private void btnBranco_Click(object sender, EventArgs e)
+        {
+            t = new Thread(abrirJanelaAcessarEleicao);
+            t.SetApartmentState(ApartmentState.STA);
+            t.Start();
+            this.Close();
+        }
+
+        private void btnCorrige_Click(object sender, EventArgs e)
+        {
+            limpaCampos();
+        }
+        private void limpaCampos()
+        {
+            txtVoto.Clear();
+        }
+
         private void btnConfirma_Click(object sender, EventArgs e)
         {
-            Eleicao.Eleicao eleicao = (Eleicao.Eleicao)Serializer.Deserializer.RecuperarEleicao(tipo, ano);
+            Eleicao.Eleicao eleicao = (Eleicao.Eleicao)Serializer.Deserializer.RecuperarEleicao("Executivo", "2022");
 
-            if (eleicao.validarExistenciaNumCandidato(txtVoto.Text)  & eleicao.validarTipoCandidato("Presidente", txtVoto.Text))
+            if (eleicao.validarExistenciaNumCandidato(txtVoto.Text) & eleicao.validarTipoCandidato("Prefeito", txtVoto.Text))
             {
                 foreach (Candidato candidato in eleicao._Candidatos)
                 {
                     if (candidato._NumeroCandidato.ToString() == txtVoto.Text)
                     {
-                        int num = (int) candidato._Votos;
+                        int num = (int)candidato._Votos;
                         candidato._Votos = num + 1;
                     }
                 }
@@ -38,7 +53,7 @@ namespace Sistema_Eleitoral___Executivo
                 {
                     MessageBox.Show("Voto computado com sucesso.", "Sucesso");
                     this.Close();
-                    t = new Thread(abrirJanelaVotarExecGovernado);
+                    t = new Thread(abrirJanelaAcessarEleicao);
                     t.SetApartmentState(ApartmentState.STA);
                     t.Start();
                 }
@@ -51,44 +66,22 @@ namespace Sistema_Eleitoral___Executivo
             }
             else
             {
-                MessageBox.Show("Numero de candidato não existe para PRESIDENTE", "Erro ao registrar voto");
+                MessageBox.Show("Numero de candidato não existe", "Erro ao registrar voto");
                 limpaCampos();
             }
-        }
-        private void limpaCampos()
-        {
-            txtVoto.Clear();
-        }
-        public void setTipoAno(string tipo, string ano)
-        {
-            this.tipo = tipo;
-            this.ano = ano;
-        }
-
-        private void btnCorrige_Click(object sender, EventArgs e)
-        {
-            limpaCampos();
         }
 
         private void btnNulo_Click(object sender, EventArgs e)
         {
             this.Close();
-            t = new Thread(abrirJanelaVotarExecGovernado);
+            t = new Thread(abrirJanelaAcessarEleicao);
             t.SetApartmentState(ApartmentState.STA);
             t.Start();
         }
 
-        private void abrirJanelaVotarExecGovernado()
+        private void abrirJanelaAcessarEleicao()
         {
-            Application.Run(new VotarExecGovernador());
-        }
-
-        private void btnBranco_Click(object sender, EventArgs e)
-        {
-            this.Close();
-            t = new Thread(abrirJanelaVotarExecGovernado);
-            t.SetApartmentState(ApartmentState.STA);
-            t.Start();
+            Application.Run(new AcessarEleicao());
         }
     }
 }

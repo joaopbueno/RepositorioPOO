@@ -39,5 +39,15 @@ namespace Sistema_Eleitoral___Executivo.Eleicao
             }
             return false;
         }
+
+        public bool validarTipoCandidato(string tipo, string num)
+        {
+            foreach (Candidato candidato in _Candidatos)
+            {
+                if (candidato._Tipo.ToString() == tipo & candidato._NumeroCandidato.ToString() == num)
+                    return true;
+            }
+            return false;
+        }
     }
 }

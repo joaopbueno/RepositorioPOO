@@ -16,6 +16,12 @@
     <Compile Update="Relatorio.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="VotarExecGovernador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VotarExecPrefeito.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="VotarGovernador.cs">
       <SubType>Form</SubType>
     </Compile>

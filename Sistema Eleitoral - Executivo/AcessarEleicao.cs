@@ -36,10 +36,10 @@ namespace Sistema_Eleitoral___Executivo
                 {
                     if (cbmTipoEleicao.Text == "Executivo")
                     {
-                        this.Close();
                         t = new Thread(abrirJanelaVotar);
                         t.SetApartmentState(ApartmentState.STA);
-                        t.Start();
+                        t.Start(($"{cbmTipoEleicao.Text}-{txtAnoEleicao.Text}").ToString());
+                        this.Close();
                     }
                     else
                     {
@@ -81,16 +81,18 @@ namespace Sistema_Eleitoral___Executivo
         {
             VotarExecutivo votarExecutivo = new VotarExecutivo();
             votarExecutivo.setTipoAno(this.tipoEleicao, this.anoEleicao);
-            Application.Run(new VotarExecutivo());
+            Application.Run(votarExecutivo);
         }
         private void abrirJanelaVotarExec()
         {
             Application.Run(new VotarLegislativo());
         }
 
-        private void abrirJanelaRelatorio()
+        private void abrirJanelaRelatorio(object tipoAno)
         {
-            Application.Run(new Relatorio());
+            Relatorio relatorio = new Relatorio();
+            relatorio.setTipoAno((string)tipoAno);
+            Application.Run(relatorio);
         }
         private void abrirJanelaGerenciarExecutivo(object tipoAno)
         {
@@ -129,10 +131,10 @@ namespace Sistema_Eleitoral___Executivo
 
         private void btnRelatorio_Click(object sender, EventArgs e)
         {
-            this.Close();
             t = new Thread(abrirJanelaRelatorio);
             t.SetApartmentState(ApartmentState.STA);
-            t.Start();
+            t.Start(($"{cbmTipoEleicao.Text}-{txtAnoEleicao.Text}").ToString());
+            this.Close();
         }
     }
 }
